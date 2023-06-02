@@ -1,0 +1,19 @@
+[tool.poetry]
+name = "pdf-manipulation"
+version = "0.1.0"
+description = ""
+authors = ["SimpleNiQue <simplenick01@gmail.com>"]
+readme = "README.md"
+packages = [{include = "pdf_manipulation"}]
+
+[tool.poetry.dependencies]
+python = "^3.10"
+pypdf = "^3.9.0"
+reportlab = "^4.0.4"
+
+[tool.poetry.group.dev.dependencies]
+black = "^23.3.0"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

@@ -1,0 +1,5 @@
+1 PDF File Merger:
+Create a script that merges multiple PDF files into a single PDF document. This project will involve reading multiple PDF files, extracting their contents, and then combining them to generate a single PDF file. You can use popular Python libraries such as PyPDF2 or PDFMiner to manipulate the PDF files. You can also add features like specifying the order of the files, adding a table of contents, or merging only specific pages from each PDF file.
+
+2 PDF Form Filler:
+Build a script that automates the process of filling out PDF forms. This project will involve reading a PDF form template, extracting its fields, and populating them with data provided by the user. You can use libraries such as pdfrw or PyPDF2 to read and modify the PDF form fields. Additionally, you can enhance the project by integrating it with a GUI framework like Tkinter or PyQt, allowing users to interactively input data and generate the filled-out form.

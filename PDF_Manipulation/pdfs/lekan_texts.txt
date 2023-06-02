@@ -1,0 +1,874 @@
+Number of pages: 35
+---------------------------------------------
+        
+ 
+FEDERAL UNIVERSITY OF LAFIA  
+ 
+P.M.B. 146, LAFIA, NASARAWA STATE, NIGERIA.  
+ 
+DEPARTMENT OF PHYSICS  
+ 
+FACAULTY OF SCIENCE  
+ 
+SIX MONTHS REPORT ON STUDENT INDUSTRIAL WORK  
+ 
+EXPERIENCE SCHEME (SIWES)  
+AT 
+JORDAN FM USHAFA, FCT -ABUJA.  
+BY 
+ISSA SHARAFADEEN OL AMILEKAN  - 2061800010  
+ 
+IN PARTIAL FULFILMENT OF BACHELOR OF SCIENCE (B.SC) IN PHYSICS  
+MAY, 2023.  
+ 
+ 
+
+---------------------------------------------
+1 
+ DEDICATION  
+I dedicate this   SIWES report to God Almighty for His divine intervention, making the entire 
+program a resounding success. I am grateful to my i ncredible family and friends for their 
+unwavering support and compassion throughout my SIWES journey.  
+Additionally, I extend my heartfelt dedication to my lecturers for their continuous impartation 
+of knowledge. I would also like to express my deepest resp ect and gratitude to the staff of the 
+Jordan 93.9FM FCT -Abuja  for their invaluable guidance in overcoming challenges during my 
+SIWES training.  
+Thank you all for your contributions.  
+To God be the glory.  
+ 
+  
+---------------------------------------------
+2 
+ ACKNOWLEDGEMENT  
+First and foremost, I extend my hea rtfelt gratitude to my brothers, Issa Bolaji Mubarak  and 
+Sharafadeen Ganiyat Aderinke omo iya Bolaji  for their unwavering and constant support 
+throughout this entire program. Your contributions have been invaluable, and I will forever 
+cherish them.  
+I would  also like to express my special acknowledgement to my industry -based supervisor,  Mrs. 
+Ajebo. Her  exceptional support, coaching, mentoring, and relentless guidance during my SIWES 
+program have been instrumental to my growth and success. I am truly grateful  to have had 
+such an incredible supervisor. Thank you.  
+Furthermore, I extend my sincere thanks and appreciation to all those who have made a 
+positive impact on my development during this period. Your contributions, in various ways, 
+have not gone unnoticed or unappreciated.  
+---------------------------------------------
+3 
+ ABSTRACT  
+This report encompasses my six -month SIWES program at Jordan 93.9 FM FCT-Abuja. Within 
+these pages, you will find comprehensive information regard ing my experience at the Radio 
+Station , including a detailed account of the tasks and responsibilities I undertook. It also covers 
+the completion status of these tasks, the challenges I encountered, and the strategies 
+employed to overcome them. Moreover, this report highlights the new knowledge and skills I 
+acquired during the program, substantiated by tangible project outcomes.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+---------------------------------------------
+4 
+ Table of Contents  
+DEDICATION ................................ ................................ ................................ ...............................  1 
+ACKNOWLEDGEMENT  ................................ ................................ ................................ ............  2 
+ABSTRACT  ................................ ................................ ................................ ................................ ... 3 
+TABLE OF FIGURES  ................................ ................................ ................................ ..................  5 
+CHAPTER ONE  ................................ ................................ ................................ ...........................  6 
+INTRODUCTION  ................................ ................................ ................................ ................................ .........  6 
+1.0 Background of Student Industrial Work  Experience Scheme (SIWES)  ................................ ............  6 
+1.1 Brief History SIWES  ................................ ................................ ................................ .........................  6 
+1.2 Location of SIWES Organization  ................................ ................................ ................................ ...... 7 
+1.3 Mandate of SIWES ................................ ................................ ................................ ...........................  7 
+1.4 Benefits of SIWES  ................................ ................................ ................................ ............................  8 
+1.5 Aims of SIWES  ................................ ................................ ................................ ................................ . 8 
+1.6 Objectives of SIWES  ................................ ................................ ................................ ........................  8 
+1.8 Brief History of Jordan 93.9FM Abuja  ................................ ................................ .............................  9 
+1.9 Departments in the Organization  ................................ ................................ ................................ ... 9 
+CHAPTER TWO  ................................ ................................ ................................ ........................  11 
+FIELD WORK  ................................ ................................ ................................ ................................ ............  11 
+2.0 RADIO BROADCASTING  ................................ ................................ ................................ .................  11 
+2.1 TYPES OF RADIO BROADCASTING  ................................ ................................ ................................ . 11 
+2.1.1 AMPLITUDE MODULATION  ................................ ................................ ................................ ........  11 
+2.1.2 FREQUENCY MODULATION  ................................ ................................ ................................ ........  12 
+2.2 BASIC COMPONENTS OF A RADIO HOUSE  ................................ ................................ ....................  13 
+2.3 TECHNICAL EXPERIENCE GAINED  ................................ ................................ ................................ .. 21 
+CHAPTER THREE  ................................ ................................ ................................ ....................  32 
+CHALLENGES, CONCLUSION AND RECOMMENDATION  ................................ ................................ .........  32 
+CHALLENGES FACED DURING SIWES  ................................ ................................ ................................ ... 32 
+4.1 CONCLUSION  ................................ ................................ ................................ ................................ . 32 
+4.2 RECOMMENDATION  ................................ ................................ ................................ .....................  33 
+REFERENCES  ................................ ................................ .................  Error! Bookmark not defined.  
+ 
+---------------------------------------------
+5 
+  
+TABLE OF FIGURES  
+Figure 1: On Air Studio  ................................ ................................ ................................ ..............  14 
+Figure 2: Microphone  ................................ ................................ ................................ .................  14 
+Figure 3: Computer Set  ................................ ................................ ................................ ..............  15 
+Figure 4: UPS  ................................ ................................ ................................ ..............................  16 
+Figure 5: Air conditioner ................................ ................................ ................................ ............  16 
+Figure 6: Transmitter  ................................ ................................ ................................ .................  17 
+Figure 7: Mast  ................................ ................................ ................................ .............................  17 
+Figure 8: Headset  ................................ ................................ ................................ ........................  18 
+Figure 9: Console Mixer  ................................ ................................ ................................ .............  19 
+Figure 10: Loudspeaker  ................................ ................................ ................................ .............  19 
+Figure 11: Sound Card  ................................ ................................ ................................ ...............  20 
+Figure 12: 500KVA Generator and  Transformer ................................ ................................ .... 20 
+Figure 13: Electrical tool box  ................................ ................................ ................................ ..... 23 
+Figure 14 :Armor Cable  ................................ ................................ ................................ .............  31 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+---------------------------------------------
+6 
+ CHAPTER ONE  
+INTRODUCTION  
+ 
+1.0 Background of Student Industrial Work Experience Scheme (SIWES)  
+The Students Industrial Work Exper ience Scheme (SIWES) is a skill  training p rogramme designed 
+to expose and prepare students of universities and other tertiary i nstitutions for the industrial w ork 
+situation they are likely to meet after graduation.   
+The Students Industrial Work Experience Scheme (SIWES) is the accepted training pr ogramme, 
+which is part of the approved Minimum Academic Standard in the various degree programmes for 
+all Nigerian Universities.   The scheme is aimed at bridging the existing gap between theory and 
+practice of Sciences, Agriculture, Medical Sciences (inclu ding Nursing), Engineering and 
+Technology, Management, Information and Communication Technology, and other professional 
+educational programmes in the Nigerian tertiary institutions.   It is aimed at exposing students to 
+machines and equipment, professional work methods, and ways of safeguarding the work areas 
+and workers in industries, offices, laboratories, hospitals, and other organizations.   
+It is a cooperative industrial internship program that involves institutions of higher learning, 
+industries, the Fe deral Government of Nigeria, the Industrial Training Fund (ITF), and the 
+Nigerian Universities Commission (NUC).  
+ 
+1.1 Brief History SIWES  
+SIWES was founded in 1973 by ITF (Industrial Training Funds) to address the problem of tertiary 
+institution graduates'  lack of appropriate skills for employment in Ni gerian industries. The Student 
+Industrial Work Experience Scheme (SIWES) was founded to be a skill training programme to 
+help expose and prepare students of universities, Polytechnics and colleges of educatio n for the 
+industrial work situation to be met after graduation.  
+This system facilitates the transfer from the classroom to the workplace and aids in the application 
+of knowledge. The program allows students to become acquainted with and exposed to the 
+---------------------------------------------
+7 
+ expe rience required in handling and operating equipment and machinery that are typically not 
+available at their schools.  
+Prior to the establishment of this scheme, there was a rising concern and trend among industrialists 
+that graduates from higher education i nstitutions lacked appropriate practical experience for 
+employment. Students who entered Nigerian universities to study science and technology were not 
+previously trained in the practical aspects of their chosen fields. As a result of their lack of work 
+experience, they had difficulty finding work.  
+As a result, employers believed that theoretical education in higher education was unresponsive to 
+the needs of labor employers. Thousands of Nigerians faced this difficulty till 1973. The fund's 
+main motivation for establishing and designing the scheme in 1973/74 was launched against this 
+context.  
+The ITF (Industrial Training Fund) organization decided to aid all interested Nigerian students and 
+created the SIWES program. The federal government officially approve d and presented it in 1974. 
+During its early years, the scheme was entirely supported by the ITF, but as the financial 
+commitment became too much for the fund, it withdrew in 1978. The National Universities 
+Commission (NUC) and the National Board for Techn ical Education (NBTE) were given control 
+of the scheme by the federal government in 1979. The federal government handed over supervision 
+and implementation of the scheme to ITF in November 1984. It was taken over by the Industrial 
+Training Fund (ITF) in Ju ly 1985, with the federal government bearing entire responsibility for 
+funding.  
+1.2 Location of SIWES Organization  
+The Industrial Training Fund (ITF) headquarter is situated in Miango Road Jos, Plateau State.  
+1.3 Mandate of SIWES  
+I.  Make a swift transition from school to work . 
+II. To provide  the opportunities needed for students to apply their knowledge into 
+work . 
+ 
+---------------------------------------------
+8 
+ 1.4 Benefits of SIWES  
+I. SIWES provides opportunities for student to blend the theoretical knowledge acquired 
+from various fields with practical applica tions learned in the industries.  
+II. SIWES provides exposure for students to environment in which they may eventually work 
+after graduation from school.  
+III. SIWES creates social bond between students from different fields of learning.  
+IV. SIWES provides students with firsthand information on how offices or companies are 
+being run.  
+V. SIWES creates creativity in students.  
+VI. Students who partake in SIWES have a high tendency of being employed by same 
+organizations after graduation.  
+1.5 Aims of SIWES  
+SIWES began in the year 19 74 with the sole aim of making education relevant, bridging the gap 
+between theory and practical in the fields of sciences, engineering and technology related 
+disciplines.  
+1.6 Objectives of SIWES  
+The Industrial Training Fund’s Policy Document No. 1 of 1973  which established SIWES outlined 
+the objectives of the scheme as:  
+ Provide an avenue for students in i nstitutions of higher learning to acquire industrial skills 
+and experience in their respective courses of study.  
+ Prepa re students for the industrial w ork situation they are likely to experience after 
+graduation.  
+ Expose students to work methods and techniques of handling equipment and machinery 
+that may not be available in their i nstitutions.  
+ Make the transition from school to the world of work easier; and e nhance students’ 
+networks for later job placements.  
+---------------------------------------------
+9 
+  Provide students with an opportunity to apply their knowledge to real work situations, 
+thereby bridging the gap between theory and practice; and  
+ Enlist and strengthen Employers’ involvement in the entire educational process; thereby 
+preparing the students for employment in Industry and Commerce.  
+1.7 Duration of SIWES  
+One requirement for the Bachelor of Sciences or Engineering award is that students must complete 
+at least 24 weeks of Industrial Training.  
+In most institutions, SIWES is done at the end of the first -semester examination of 300, 400, or 
+500 levels respectively.   The time and duration are to be worked out jointly by each university, 
+department, the SIWES unit, and the ITF.  
+ 
+1.8 Brief History of J ordan 93.9FM Abuja  
+Jordan 93.9FM Abuja was officially launched in the year 2018, it was a tiny revolution. The Radio 
+Station which is barely 5years old was the first of its kind to create a niche for entrepreneurship 
+and women empowerment. Jordan 93.9 FM h as successfully and single handedly carved its own 
+space in the airwaves. Listeners and subscribers can find it on the FM station 93.9.  
+ 
+1.9 Departments in the Organization  
+Below are the lists of department in Jordan 93.9FM  
+ Administrative  Department  
+ Progra ms Department  
+ News and Current Affairs Department  
+ Engineering Department  
+ 
+---------------------------------------------
+10 
+  Administrative Department : The administrative department handles staff 
+recruitment and deployment. It ensures regular training and development programs 
+for staffs.  
+ 
+ News and Current Affairs Department: This department engages in news 
+gathering, news processing, news sifting and packaging. It is the unit that generally 
+creates content to be delivered to subscribers.  
+ 
+ Programs Department: This department ensure day to day running of pr ograms 
+in the organization, they engage in talent hunt, mobilization of artist and produce 
+programs that entertain and educate viewers at large.  
+ 
+ Engineering Department: This department sees to the efficient transmission of 
+broadcast signals to the audien ce. It maintains and ensures the better utilization of 
+equipment in the organization.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+---------------------------------------------
+11 
+ CHAPTER TWO  
+FIELD WORK  
+2.0 RADIO BROADCASTING  
+Radio broadcasting  is the transmission of  audio  (sound) by  radio waves  to radio 
+receivers  belonging to a public  audience . In terrestrial radio broadcasting the radio waves are 
+broadcast by a land -based radio station, while in  satellite radio  the radio waves are broadcast by 
+a satellite  in Earth orbit. To receive the content the listener must have a  broadcast radio receiver .  
+2.1 TYPES OF RADIO BROADCASTING  
+Broadcasting by radio takes several forms. These include  amplitude modulation  and frequency 
+modulation stations.  
+ 
+2.1.1 AMPLITUDE MODULATION  
+AM stations were the earliest broadcasting stations to be developed. AM refers to  amplitude 
+modulation , a mode of broadcasting radio waves by varying the amplitude of the carrier signal in 
+response to the amplitude of the signal to be transmitted.  
+The signal is subject to interference from electrical storms ( lightning ) and other  electromagnetic 
+interference  (EMI). One advantage of AM radio signal is that it can be detected (turned into sound) 
+with simple equipment. If a signal is strong enough, not even a power source is needed; building 
+an unpowered  crystal radio receiver  was a common childhood project in the early decades of AM 
+broadcasting.  
+AM transmissions cannot be ionospherically  propagated  during the day due to strong absorption 
+in the  D-layer  of the ionosphere. In a crowded channel environment, this means that the power of 
+regional channels which share a frequency must be reduced at night or directionally beamed in 
+order to avoid interference, which reduces the potential nighttime audience. Some stations have 
+frequencies unshared with other stations in Nort h America; these are called  clear -channel stations . 
+Many of them can be heard across much of the country at night. During the night, absorption 
+---------------------------------------------
+12 
+ largely disappear s and permits signals to travel to much more distant locations via ionospheric 
+reflections. However, fading of the signal can be severe at night.  
+As well as on the medium wave bands, amplitude modulation (AM) is also used on 
+the shortwave  and long wave  bands. Shortwave is used largely for national broadcasters, 
+international propaganda, or  religious broadcasting  organizations. Shortwave transmissions can 
+have international or inter -continental range depending on atmospheric conditions.  [21] Long -wave 
+AM broadcasting occurs in Europe, Asia, and Africa. The  ground wave  propagation at these 
+frequencies is little affected b y daily changes in the ionosphere, so broadcasters need not reduce 
+power at night to avoid interference with other transmitters  
+ 
+2.1.2 FREQUENCY MODULATION  
+FM refers to  frequency modulation , and occurs on  VHF  airwaves in the frequency range of 88 to 
+108 MHz  almost  everywhere.  
+Edwin Howard Armstrong  invented wide -band FM radio in the early 1930s to overcome the 
+problem of  radio -frequency interference  (RFI), which plagued AM radio reception. At the same 
+time, greater fidelity was made possible by spacing stations further apart in the  radio 
+frequency  spectrum. Instead of 10KHz apart, as on the AM band in the US, FM channels are 
+200 kHz (0.2  MHz) apart. In other countries, greater spacing is sometimes mandatory, such as in 
+New Zealand, which uses 700  kHz spacing  (previously 800  kHz). The improved fidelity made 
+available was far in advance of the audio equipment of the 1940s, but wide interchange spacing 
+was chosen to take advantage of the noise -suppressing feature of wideband FM.  
+Bandwidth of 200  kHz is not needed to accommodate an audio signal — 20 kHz to 30  kHz is all 
+that is necessary for a narrowband FM signal. The 200  KHz bandwidth allowed room for ±75  kHz 
+signal deviation from the assigned frequency,  plus guard bands to reduce or eliminate adjacent 
+channel interference. The larger bandwidth allows for broadcasting a 15  KHz bandwidth audio 
+signal plus a 38  kHz stereo "subcarrier" —a piggyback signal that rides on the main signal. 
+Additional unused capacity is used by some broadcasters to transmit utility functions such as 
+background  music  for pub lic areas,  GPS auxiliary signals, or financial market data.  
+---------------------------------------------
+13 
+ The AM radio problem of interference at night was addressed in a different way. At the time F M 
+was set up, the available frequencies were far higher in the spectrum than those used for AM radio 
+- by a factor of approximately 100. Using these frequencies meant that even at far higher power, 
+the range of a given FM signal was much shorter; thus its market was more local than for AM 
+radio. The reception range at night is the same as in the daytime. All FM broadcast transmissions 
+are line -of-sight, and ionospheric bounce is not viable. The much larger bandwidths, compared to 
+AM and SSB, are more suscep tible to phase dispersion. Propagation speeds (celerities) are fastest 
+in the ionosphere at the lowest sideband frequency. The celerity difference between the highest 
+and lowest sidebands is quite apparent to the listener. Such distortion occurs up to freq uencies of 
+approximately 50  MHz  Higher frequencies do not reflect from the ionosphere, nor from storm 
+clouds. Moon reflections have been used in some experiments, but require impractical power 
+levels.  
+ 
+ 
+2.2 BASIC COMPONENTS OF A RADIO HOUSE  
+2.2.1 RADIO ST UDIO  
+The radio studio is an enclosed room where all programs are been aired. There are two studios in 
+a radio house; the Recording Studio  where off air activities are carried out and the  On-Air studio 
+where live programs are been aired. Gadgets such as mic rophones, loud speaker, computer, radio 
+monitor, playback machines, sound card, and bell are all found in the radio studio. In order to 
+prevent echo or any form of interference, the walls of the studio are padded with acoustic foams.  
+---------------------------------------------
+14 
+  
+Figure 1: On Air Studio  
+ 
+2.2.2 MICROPHONE  
+A microphone also classified as input transducer is a sound sensor that converts sounds into 
+electrical signal. It produces an electric analogue output signal that s proportional to the acoustic 
+sound waves.  
+ 
+Figure 2: Microphone  
+ 
+2.2.3 COMPUTER  
+The computer is an electronic device which is capable of receiving information in a particular form 
+and performing a sequence of operations in accordance with a predetermined but variable set  of 
+procedures (program) to produce a result or output. The computer in a radio house is used for 
+purposes such as sourcing for news, program design, recording and editing jingles and many more.  
+
+---------------------------------------------
+15 
+  
+Figure 3: Computer Set  
+ 
+2.2.4 MAS TER CONTROL ROOM (MCR)  
+The master control room is where the on air signals are controlled. Facilities at the MCR include 
+the character generator, matrix switcher, VTRs, distribution amplifiers, monitors and the patch 
+panel. The MCR output feeds the transmi tter. 
+ 
+2.2.5 TRANSMISSON ROOM  
+The transmitting room is the heart of the broadcasting station. It is a room where the signal will be 
+radiated in form of electromagnetic waves with the help of the antenna. The transmitting room 
+consists of the radio transmit ter, voltage regulator, uninterrupted power supply, dummy load and 
+air conditioners.  
+ 
+2.2.6 UNINTERRUPTED POWER SOURCE (UPS)  
+Uninterrupted power source is an electrical device that provides emergency power to a load when 
+the input power source or mains pow er fails. A UPS differs from an auxiliary or emergency power 
+system or a standby generator in that it will provide near instantaneous protection from input power 
+interruptions, by supplying energy stored batteries. The on -battery run -time of most uninterru pted 
+power sources is relatively low (only a few minutes) but sufficient to start a standby power source 
+or properly short down the protected device.  
+
+---------------------------------------------
+16 
+  
+Figure 4: UPS  
+ 
+ 
+2.2.6 AIR CONDITIONERS  
+An appliance or system used to control generally the temperature of a place. It is typically used to 
+maintain a relatively cool atmosphere in a warm condition. Air conditioners are highly 
+recommended in radio houses especially in the transmission room to prevent the transmitter from 
+overheating . 
+ 
+Figure 5: Air conditioner  
+ 
+ 
+2.2.7 TRANSMITTER  
+
+---------------------------------------------
+17 
+ In electronics  and telecommunications, a  radio transmitter  or just  transmitter  is an  electronic 
+device  which produces  radio waves  with an  antenna . The transmitter itself generates a  radio 
+frequency  alternating current , which is applied to the  antenna . When excited by this alternating 
+current, the antenna radiates radio waves.  
+Transmitters are necessary component parts of all electronic devices that communicate by  radio , 
+such as  radio  and television broadcasting  stations,  cell phones , walkie -talkies , wireless computer 
+networks , Bluetooth  enabled devices,  garage door openers , two-way radios  in aircraft, ships, 
+spacecraft,  radar  sets and navigational beacons.  
+ 
+Figure 6: Transmitter  
+ 
+ 
+2.2.8 MAST  
+Radio masts and towers  are typically tall structures designed to 
+support  antennas  for telecommunications  and broadcasting . There are two main types: guyed and 
+self-supporting structures. They are among the tallest human -made structures.  
+ 
+Figure 7: Mast  
+
+---------------------------------------------
+18 
+ 2.2.9 HEADSET  
+A headset  is a hardware  device that connects to a telephone or computer, allowing the user to talk 
+and listen while keeping their hands free. Headsets are commonly used in technical support and 
+customer service centers and allow the employee to talk to a customer while typing information 
+into a computer . They are also commonly used by computer gamers, allowing them to hear and 
+talk with others, while using the keyboard and mouse to play the game.  
+ 
+Figure 8: Headset  
+ 
+2.2.10 CONSOLE MIXER  
+A mixing console  or mixing desk  is an electronic device for  mixing  audio signals, used in  sound 
+recording and reproduction  and sound reinforcement systems . Inputs to the console 
+include  microphones , signals from electric or electronic instruments, or recorded sounds. Mixers 
+may control analog or  digital signals . The modified signals are  summed  to produce the combined 
+output signals, which can then be broadcast, amplified through a sound reinforcement system or 
+recorded.  
+Mixing consoles are u sed for applications including  recording studios , public address systems , 
+sound reinforcement systems,  nightclubs , broadcasting , and  post-production . A typical, simple 
+application combines signals from microphones on stage into an amplifier that drives one set 
+of loudspeakers  for t he audience. A mixing console is also known as an  audio mixer , audio 
+console , mixing desk , sound mixer , soundboard , or simply as a  board  or mixer.  
+
+---------------------------------------------
+19 
+  
+ 
+Figure 9: Console Mixer  
+ 
+ 
+2.2.11 LOUDSPEAKERS  
+A loudspeaker is an electroacoustic transducer which converts a n electrical audio into a 
+corresponding sound.  
+ 
+ 
+Figure 10: Loudspeaker  
+ 
+2.2.12 STUDIO SOUND CARD  
+The sound card is a computer component that translates digital audio signals to analogue ones and 
+analogue signals to digital. The use of sound card provides be tter sound quality than the built in 
+
+---------------------------------------------
+20 
+ audio hardware and allows the use of multiple devices at once. In the recording studio, all 
+microphones are fed to the sound card.  
+ 
+ 
+Figure 11: Sound Card  
+2.2.13 POWER PLANT  
+The power plant consists of a 500KVA step down  transformer, two generators with same output. 
+The transformer and generator work alternatively by means of automatic changeover system. The 
+system automatically turns on  the generator when there is power failure from the national grid 
+and turn off  the gen erator when power is restored.  
+ 
+ 
+Figure 12: 500KVA Generator and Transformer  
+ 
+ 
+ 
+
+---------------------------------------------
+21 
+ 2.3 TECHNICAL EXPERIENCE GAINED  
+2.3.1 WORKING IN THE RECORDING STUDIO  
+The recording studio is a place in the radio house where off air activities are carried out. Programs 
+are be en recorded, edited and copied to the on air studio for broadcast. In the recording studio, we 
+create jingles of any capacity, record adverts for clients, record messages for clients, record short 
+dramas and many more.  
+Electronic devices such as computer set, studio sound card, studio microphones are highly 
+recommended in the studio to make recording possible. The essence of the microphone is to collect 
+audio signal, the sound card filters the signal collected by the microphone and is fed into the 
+computer  where more work is done to produce a desired output.  
+The software we use in editing our work is called adobe audition. Adobe audition is used for 
+recording, creating jingle, music, voice note or anything recordable (audio). The software has 
+features such as effect, filter, parametric equalizer, modulation and many more. An important 
+feature of adobe audition is the  multitrack  effect; this effect combines a voice note with an 
+instrumental hence producing unified sound. All finished work from the recording s tudio are 
+copied via a removable gadget and taken to the on air studio for live broadcast at designated time.  
+ 
+2.3.2 WORKING IN THE ON AIR STUDIO  
+The on air studio is a place where live programs are anchored. This is because the output from the 
+on air stud io is fed directly to the transmitter and anything that reaches the transmitter is already 
+on air. Gadgets in this studio includes but not limited to computer set, audio console mixer, sound 
+card, microphon e, headset, loudspeaker, bell, UPS , telephone or h andset. On air personnel makes 
+use of the headset to receive feedback (listening to what they are presenting).  
+The software used in the on air studio is known as jazler.  Jazler is one important tool in radio 
+automation; jazler is embedded with tools that  enable a radio station function 24hours without 
+having anyone to monitor it. To avoid echo of sound in the studio, the walls are well padded with 
+wood and acoustic foam.  
+ 
+---------------------------------------------
+22 
+ 2.3.3 WORKING IN THE ENGINEERING ROOM  
+The engineering room is stationed very close to the transmission room; devices such as live 
+streaming system, Wi -Fi, set of engineering tools are all found in the engineering room. The duties 
+of the engineer include but not limited to turning on and shorting down the radio station, handling 
+both mino r and major technical cases that might arise while on air, monitoring the transmitter, 
+monitoring live streaming, running routine maintenance on generators, servicing of computer 
+hardware and software, managing of stations online community,  renewing all n ecessary 
+subscription etc.  
+Here we learn how to install computer sets, software installation, trouble shooting, fault finding 
+along conductors, safety measures while working in the engineering room, replacement of worn 
+out or bad electrical fittings such as lighting bulbs, sockets, lighting points, fuses, switches, 
+breakers etc.  
+ 
+2.3.4 WORKING IN THE POWER HOUSE   
+The powerhouse is situated some few meters away from the station, any danger emanating from 
+the power house remains there and not necessary affe cting the entire building. These consist of a 
+500KVA step down transformer planted by the side, two standby generators with same rating 
+enclosed in a well -ventilated house. These are the two major power sources for the radio station; 
+the generator serves a s an alternative source of power with the national grid as major. The 
+generator resumes as soon as the national grid fails.  
+The transformer oil which serves both as a lubricant and coolant is replaced once in six month, 
+this exercise is done by AEDC staff themselves. Any other maintenance that involves the 
+transformer is done by them as this is a highly sensitive job that needs proper guidelines.  
+Routine check on the generator is done by the engineer, this include; checking engine oil level via 
+dip stick, c hecking water level in the radiator, checking firmness of battery terminals, checking 
+fuel level (diesel). Servicing the generator includes replacing engine oil with new, changing both 
+oil and gas filters. This is done once in every three or six months dep ending on the quality of oil 
+used.  
+ 
+---------------------------------------------
+23 
+ 2.3.5 ELECTRICAL TOOLING SYSTEM  
+ 
+Electricians rely on their tools for areas like safety, accuracy, craftsmanship, and comfort. 
+Generally, you will see your electrician with an electrical tool kit. Assembling and maintain ing 
+this tool kit with the proper tools and gear is a key responsibility for an electrician. Every job you 
+go to can require different electrical components and making sure you have the right tools in your 
+kit is essential.  
+ 
+Figure 13: Electrical tool box  
+Here are some common tools you will find in an electrician’s belt:  
+1. Pliers : Pliers are important for electricians who regularly work with and cut wire. The most 
+commonly used pliers used by an electrician can include needle -nose pliers, side -cutting pliers , 
+and reaming pliers.  
+2. Screwdrivers : Electricians will always have a variety of screwdrivers for loosening and 
+fastening various pieces of hardware. Many professionals will carry adaptable screwdrivers with 
+interchangeable bits so they’re never stuck wit hout the electrical hand tools they need.  
+ 3. Tape Measure : When electricians work with wiring, it’s important to know the lengths of 
+pieces you are cutting and stripping. A simple retractable tape measure will get most jobs in the 
+field done, but there ar e advanced tape measures on the market that will make the process easier.  
+
+---------------------------------------------
+24 
+ 4. Electric Drill : Electricians will use an electric drill to help them install new lighting fixtures or 
+disassemble installed hardware to access wiring and other electrical componen ts. This tool is used 
+often since installing lighting fixtures or accessing electrical wiring is a common task asked of an 
+electrician.  
+ 5. Level : When installing light fixtures, finding precise points for placement is key. A standard 
+level helps electrici ans make sure that fixtures, screws, and other installations are where they need 
+to be. Some levels are magnetized for convenience and more accurate readings.  
+6. Wire Strippers : Wire strippers are essential for professional electricians who frequently have  
+to strip the plastic coating on wires to expose the copper and make customized connections with 
+other wiring or components. There are many wire stripper types and most electricians have various 
+versions ready to use at their next job.  
+7. Fish Tape : Fish t ape is used to run wiring between different electrical components through 
+conduit piping. Fish tape is kept in a retractable coil and can be fed through installed conduit 
+piping. Once the end of the fish tape appears on the opposite side, wiring can be hoo ked to the tape 
+and the tape can be retracted.  
+ 8. Voltage Tester : Electrical work cannot safely begin until power has been cut off in certain 
+parts of the property. A handheld voltage tester allows electricians to test to see if outlets are active 
+and whe n power has been properly restored for the homeowner.  
+9. Reaming Bit : To install new or replace old conduits, you connect different segments of piping 
+together to create a wiring route between electrical components. A reaming bit attaches to an 
+electric dr ill, which widens the opening on one end of the piping and allows it to connect to another 
+segment of piping and complete a secure conduit.  
+ 10. Conduit Bender : When determining a wiring route, most electricians plan to run wiring along 
+the corner of the w all in the area they are working. Conduit benders allow electricians to curve 
+conduit piping so electricians can use these routes and make sure that the conduits remain out of 
+the way.  
+---------------------------------------------
+25 
+ 11. Flashlights : As an electrician, sooner or later you’ll have no othe r option than to work in the 
+dark. Many electricians will be prepared for such a circumstance by carrying flashlights or other 
+work lights in their truck.  
+2. Insulated Gloves : Electrocution is death or severe injury by electrical shock. Due to this 
+possibi lity on any given job site, electricians need to take precautions. Electricians should have 
+insulated gloves on them for every job.  
+13. Safety Glasses : Electricians on their first job or ones that have been working their entire lives 
+should have a pair of safety glasses on hand at every job site. Whether they are inspecting wiring 
+or using power tools, protecting your eyes should be a priority.  
+ 14. Circuit Finders : It can be sometimes difficult to know which outlets are connected to which 
+circuit in a hous e. Electricians now use circuit finders that incorporate two main components: a 
+handheld digital transmitter and small receivers that plug into outlets around the home. It will 
+indicate which circuit which outlet belongs to.  
+ 
+ 
+2.3.6 GENERAL SAFETY MEASURES  
+To prevent hazards, injuries and loss of lives, we learnt some safety measures to be observed while 
+in the radio station, these precautions includes;  
+ Always put on cover shoes (safety booth for engineering students).  
+ Don’t touch any gadget until permitted  to 
+ The studio is the shrine of the station and out of bound for SIWES students unless on 
+special permit by head of programs and stations engineer.  
+ The transmission room is the heart of the station and out of bound for SIWES students 
+unless on special perm it by stations engineer.  
+ Use proper tools for a designated job.  
+ Use proper safety kits such as gloves before visiting the power house.  
+ Ensure you are supervised when carrying out a particular task.  
+ 
+---------------------------------------------
+26 
+  
+2.3.7 EARTHING SYSTEM AS A SAFETY MEASURE  
+An Earthing sy stem  or Grounding system  connects specific parts of an  electric power 
+system  with the  ground , typically the earth's conductive surface, for safety and functional 
+purposes.  The choice of earthing system can affect the  safety  and electromagnetic compatibility  of 
+the installation. Regulations for earthing systems vary among countries, though most follow the 
+recommendations of the  International Electro -technical Commission  (IEC). Regulations may 
+identify special cases for earthing in mines, in patient care areas, or in haza rdous areas of industrial 
+plants.  
+In addition to electric power systems, other systems may require grounding for safety or 
+function. Tall structures may have  lightning rods  as part of a system to protect them from 
+lightning strikes.  Telegraph lines  may use the  Earth as one conductor of a circuit, saving the cost 
+of installation of a retur n wire over a long circuit.  Radio antennas  may require particular 
+grounding for operation, as well as to control static electricity and provide lightning protection.  
+System eart hing serves a purpose of electrical safety throughout the system that is not caused by 
+an electrical fault. Its main purpose is to prevent  static  buildup and to protec t against power surges 
+caused by nearby  lightning  strikes or switching.  Static buildup, as induced by friction for example, 
+such as when wind blows onto a  radio mast , is dissipated to the Earth.  In the event of a surge, 
+a lightning arrester , a surge arrester  or a SPD will divert the excess current to the Earth before it 
+reaches an appliance.  
+System earthing also allows for equipotential  bonding  to all metal works to prevent potential 
+differences between them. Having earth as a common reference point also kee ps the electrical 
+system's potential difference limited to the supply voltage.  
+ 
+2.3.7.1 CLASS OF EARTHING  
+ Equipment Earthing: Equipment earthing serves a purpose of electrical safety in an electrical 
+fault. Its main purpose is to prevent equipment damage a nd the risk of an electric shock. This 
+type of earthing is not an earth connection, technically speaking.  When current flows from a line 
+conductor to an earth wire, as is the case when a line conductor makes contact with an earthed 
+surface in a  Class I  appliance, an automatic disconnection of supply (ADS) device such as a  circuit 
+breaker  or a RCD will automatically open the circuit to clear the fault.  
+---------------------------------------------
+27 
+  Functional Earthing: Functional earthing serves a purpose other than electrical safety. Exampl e 
+purposes include  electromagnetic interference  (EMI) filtering in an EMI filter, and the use of the 
+Earth as a return path in a  single -wire earth return  distribution system.  
+ System Earthing: System earthing serves a purpose of electrical safety throughout the system 
+that is not caused by an electrica l fault. Its main purpose is to prevent  static  buildup and to 
+protect against power surges caused by nearby  lightning  strikes or switching.  Static buildup, as 
+induced by friction for example, such as when wind blows onto a  radio mast , is dissipated to the  
+Earth. In the event of a surge, a  lightning arrester , a surge arrester  or a SPD will divert the excess 
+current to the Earth before it reaches an appliance.  
+ 
+2.3.8 WIRE COLOR CODING AS A SAFETY MEASURE  
+Wiring for AC and DC power distribution branch circuit ar e color coded for identification of 
+individual wires. In some jurisdictions all wire colors are specified in legal documents, only a few 
+conductor colors are so codified. In that case, local custom dictates the optional wire colors. Most 
+of Europe abides b y International Electro -technical Commission (IEC) wiring color codes for AC 
+branch circuits. These are listed in the table below.  
+The older color codes in the table reflect the previous style which did not account for proper phase 
+rotation. The protective  ground wire (listed as green - yellow) is green with yellow stripe.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+---------------------------------------------
+28 
+ AC Power Circuit Wiring Color Codes According IEC  
+S/N FUNCTION  LABEL  COLOR (IEC) 
+CODES  OLD UK COLOR 
+CODES  
+1 Protective earth  PE Green – yellow  Green – yellow  
+2 Neutral  N Blue  Black  
+3 Line, Single phase  L Brown  Red 
+4 Line, 3 phase  L1 Brown  Red 
+5 Line, 3 phase  L2 Black  Yellow  
+6 Line, 3 phase  L3 Grey  Blue  
+  
+ 
+2.3.10 CLASSIFICATION OF ELECTRIC CABLES  
+1. ACCORDING TO VOLTAGE  
+An electric cable is measured in volts and depending on these , they are categorized into one 
+group or another:  
+ Low  voltage  cables  (up to 750 V): in a variety of applications, and with 
+thermoplastic and thermoset coatings. They are designed and built according to 
+harmonized standards.  
+ Low  Voltage  cables  (up to 1,000  V): (also  called  (0.6/1  kV) the cables  in this section  
+are used for industrial  power  installations  in various  fields  (general  industry,  public  
+installations,  infrastructures,  etc.).   
+ Medium  Voltage  cables:  from  1 kV to 36 kV. They  are used to distribute  electricity  
+from  electrical  substations  to transformer  stations.  
+---------------------------------------------
+29 
+  High  Voltage  cables:  from  36 kV. They  are used to transport  electricity  from  the 
+generating  plants  to the electrical  substations . 
+ 
+ 
+2. ACCORDING TO THEIR USE  
+(Low voltage cables)  
+ Cables  for electric  panels : Flexible  cables  for wiring  electric  cabinets . These electric 
+cables are especially suitable for domestic use, f or installation in public places and for 
+internal wiring of electrical cabinets, switch boxes and small electrical appliances.  
+ 
+ Power  cables : Energy  cables  for industrial  facilities  and public  places . It is common to 
+find power cables in applications for power transmission in all types of low voltage 
+connections, for industrial use and for variable frequency drive (VFD).  
+ 
+ Armored  cables : Cables with aluminum or steel reinforcement  for installations  with risk 
+of mechanical  aggression . It is also common to find ar mored cables in places where rodents 
+are present, as well as in installations in premises with a risk of fire and explosion (ATEX).  
+ 
+ Rubber  cables : The use of extra flexible rubber cables is very varied. We can find rubber 
+cables  in fixed  industrial  installations  as well as in mobile  service . Welding cables should 
+have a rubber sheath, which allows high currents to be transmitted betw een the welding 
+generator and the electrode.  
+ 
+ 
+ Fire resistant  cables : These cables are specially designed  to transmit  elect rical energy  in 
+the extreme  conditions  that occur during a prolonged fire, guaranteeing supply to 
+emergency equipment such as signaling, smoke extractors, acoustic alarms, water pumps, 
+etc. Their use is recommended in emergency circuits in places with publ ic concurrence.  
+ 
+---------------------------------------------
+30 
+  Control  cables : Installations should be extremely flexible, as they are mainly designed for 
+small household appli ances, for the interconnection of machine parts used for 
+manufacturing, for signaling and control systems, for the connection of motors or 
+frequency converters, for signal transmission where the voltage induced by an external 
+electromagnetic field may affe ct the  control  cables  for fixed  or mobile  transmitted signal 
+or for power supply connections to avoid generating electromagnetic fields.  
+ 
+ 
+ Special  cables : There is a wide variety of  electric  cables  for special  installations  such as: 
+temporary light garland installations at trade fairs; connections for overhead cranes, hoists 
+and lifts; applications in submerged pumps and drinking wat er areas such as aquariums, 
+purification systems and drinking water fountains or in swimming pools for lighting, 
+purification and cleaning systems.  
+ 
+ 
+2.3.11 ARMORED CABLE  
+The armored cable is a common cable with an extra protective layer to keep it away fr om unwanted 
+cut or damage.   The armor increases cable life thus improves the performance, reliability, and 
+safety of the cable core.  The cable with an outside layer or layers of armor wired or tapes to provide 
+tensile strength during the cable laying opera tion, and protection while resting underground. Care 
+should be taken that the cables shall not be bent to a radius less than the minimum specified by the 
+manufacturer.  
+PARTS OF THE ARMORED CABLE  
+Armor:  Is steel in the form of wires or tapes enforced to the  outside of cables. If the application 
+of a single layer of  armor  wire is called a Single armor cable, then the application of double layer 
+armor is called a double armor cable  
+Armor Wire: Zinc coated mild or high tensile steel wire or aluminum of different gauges for the 
+protection of and also to provide tensile strength for the cables.  
+Armor Tape: Steel tape applied for the protection of cable intended for direct bu rial on land.  
+---------------------------------------------
+31 
+  
+Figure 14 :Armor Cable  
+When to use Armored Cable?  
+When transmitting power in harsh environments, cable protection is necessary for safe and reliable 
+operation.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+---------------------------------------------
+32 
+ CHAPTER THREE  
+CHALLENGES, CONCLUSION AND RECOMMENDATION  
+ 
+CHALLENGE S FACED DURING SIWES  
+Some of the challenges faced during this exercise includes but not limited to:  
+ We find it quite difficult to adapt to the environment seeing that we are neither staff nor 
+client in the organization.  
+ Too many restrictions also posed as  a challenge during this exercise, we are students on 
+attachment and are curious to learn some basic principles of operation in the organization 
+but too many restrictions almost made it impossible to learn something tangible.  
+ Economic factor also became a big challenge during this exercise, the price of diesel 
+become relatively high that the organization could operate the usual hours it is supposed. 
+Only important programs were aired using the generator whenever the national grid fails.  
+ Mobility also posed as a challenge, many came from distant places and are not mobile. 
+These often make it difficult to report to office on time and are sometimes asked to return 
+home for late coming.  
+ 
+4.1 CONCLUSION  
+My twenty four weeks of serving in a radio house has exposed  me to knowledge in various fields, 
+something I cannot learn within the four walls of a class room.  
+I have gained knowledge in the programs and news departments; where content are being sought, 
+edited and disseminated to audience all over the globe.  
+Releva nt to my field is the engineering department that always keeps equipment in check so as to 
+have a smooth running without obstructions along the line. I have been able to understand how 
+audio signals are converted to radio waves by the transmitter and launc hed into space via antenna 
+to be received by radio wave receivers in various homes and offices respectively.  
+---------------------------------------------
+33 
+ 4.2 RECOMMENDATION  
+Although the Student Industrial Work Experience Scheme (SIWES) is a vital program for students 
+practice what has been in class  rooms outside the classroom. However there are certain 
+recommendations that will cause an improvement in the program if adopted.  
+ SIWES should liaise with various organizations on the need to accept students on 
+attachment; some of wish may become their emp loyees tomorrow. This is necessary 
+because students get rejection mails from organizations relevant to their discipline pushing 
+to accept offers from others that are almost irrelevant to their discipline. They end up not 
+learning much thereby defeating the  sole aim of the program.  
+ Organizations should also note that SIWES is a very vital program; it is part of the basic 
+requirements needed for a student to graduate and as such should be taken seriously. They 
+should give the students listening ears as some a re curious to learn and report any one 
+found misbehaving to the school authority for proper discipline.  
+It is on this note that I recommend all students of tertiary institutions to partake in the SIWES 
+program.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+---------------------------------------------
+34 
+ REFERENCES  
+ 
+ SIWES Introduction, History, Aims & Objectives in Nigeria  (n.d.)  retrieve d from 
+https://siwesbeginner.com/siwes -introduction  
